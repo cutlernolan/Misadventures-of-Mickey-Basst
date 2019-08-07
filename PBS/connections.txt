@@ -1,0 +1,44 @@
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 5 (103) - Warshinton (93)
+103,North,0,93,South,34
+# Route 4 (92) - Warshinton (93)
+92,East,0,93,West,19
+# Warshinton (93) - Mt. Glorious (88)
+93,0,0,88,127,24
+# Manahattan (81) - Fedalis' Forest (80)
+81,West,39,80,East,0
+# Manahattan (81) - Route 3 (86)
+81,North,16,86,South,0
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,0
+# Hawktail City (32) - Route 1 (5)
+32,South,0,5,North,2
+# Hawktail City (32) - Route 02 (76)
+32,North,3,76,South,0
+# Talon City Gym (111) - Talon City (110)
+111,South,0,110,North,35
